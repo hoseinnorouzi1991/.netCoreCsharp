@@ -1,0 +1,5 @@
+E:\dotnetCore\DependencyInjectionDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.dll
+E:\dotnetCore\DependencyInjectionDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.pdb
+E:\dotnetCore\DependencyInjectionDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+E:\dotnetCore\DependencyInjectionDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.dll
+E:\dotnetCore\DependencyInjectionDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.pdb
